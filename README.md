@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a current CS major with a focus in AI & Machine Learning.
+
+Starting this adventure from scratch, so let's see where it goes.
+
+Enjoy.
 <!--
 **devmorg/devmorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
